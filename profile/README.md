@@ -16,14 +16,6 @@ To name a few:
 5. After receiving mentorship and investment, entrepreneurs can also choose to hire personnel as startup partners for the large-scale production of their services. According to the skills, hobbies, and interests of users, they may also volunteer to be partners for a certain startup/business.
 
 
-# Block Diagram
-
-![image](https://user-images.githubusercontent.com/55041104/196235280-f2a70b4e-17e5-49e2-be90-41e46ae6e10b.png)
-
-# Use Case Diagram
-
-![image](https://user-images.githubusercontent.com/55041104/196235621-705d5f4c-852d-4bd5-a1b9-33e4e4726ac4.png)
-
 # Wireframe
 
 <a href="https://drive.google.com/file/d/1HQlQI8rZtP2bYngcj6a2NYO57ZkrexjX/view?usp=sharing"><b> Wireframe.pdf </b></a>
@@ -38,7 +30,3 @@ To name a few:
 | Frontend Website | Sudipta Chakraborty & Aritra Chowdhury | React, Netlify | <a href="https://github.com/Startup-Overflow/Startup-Overflow-Web"><img src="https://user-images.githubusercontent.com/55041104/196239892-a908f27d-c8e4-41c3-81de-efcd916ba353.png" width="25px"></a> |
 | Research and Documentation | Adrija Mahato & Saraswata Jash | Microsoft Powerpoint | |
 | UI/UX design | Tapas Karmakar | Canva | |
-
-# Business Model:
-
-![image](https://user-images.githubusercontent.com/55041104/196241922-86cfad58-a65f-47db-9d9f-8f0ea325d526.png)
