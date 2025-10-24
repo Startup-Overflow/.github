@@ -1,8 +1,3 @@
-# Abstract
-
-In today's situation where job availability is low, Startup Overflow will act as a platform for new entrepreneurs who will provide job opportunities for those who need them. Queries and questions can be asked to mentors and other entrepreneurs on an open forum and gain knowledge for in the same. New innovation ideas will also find their place in this platform and receive reviews for improvement and progress. Experienced users can share their knowledge and experience in their field of expertise by posting articles on Startup Overflow which will again be reviewed by the viewers in the form of upvotes and downvotes and comments. Since Startup Overflow will be also be joined by various funding agencies, entrepreneurs can receive investments for their ideas/innovations and move ahead with their projects. Any user can opt to be partners in any startup or business of their choice according to the company's requirements and their hobbies, skills, and interests.
- 
-
 # Introduction
  
 Startup Overflow is the one-stop solution for all business, startup, and entrepreneurship enthusiasts. On this platform, we aim to bring together already established entrepreneurs and budding entrepreneurs on the same page, so as to create a symbiotic space for them to flourish. Here budding entrepreneurs can learn from the experienced ones and seek guidance and knowledge on how to move ahead with their ideas and make a name for themselves in the industry. Startup Overflow will be a community where businesses and startups will be promoted in various ways. 
