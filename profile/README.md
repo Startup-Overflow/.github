@@ -8,18 +8,3 @@ To name a few:
 4. Entrepreneurs will also have the facility to receive investments for their innovations, as multiple investing agencies will also, be a part of Startup Overflow. 
 4. After receiving mentorship and investment, entrepreneurs can also choose to hire personnel as startup partners for the large-scale production of their services. 
 5. After taking mentorship users are given a form asking some questions, based on which, our NLP model rates the Mentors.
-
-# Wireframe
-
-<a href="https://drive.google.com/file/d/1HQlQI8rZtP2bYngcj6a2NYO57ZkrexjX/view?usp=sharing"><b> Wireframe.pdf </b></a>
-
-# Implementation
-
-| Work | Developer | Technology Used | URL |
-|------|-----------|-----|--| 
-| Android, IOS Application | Ujjwal Kar | React Native | <a href="https://github.com/Startup-Overflow/android-ios-application"><img src="https://user-images.githubusercontent.com/55041104/196239892-a908f27d-c8e4-41c3-81de-efcd916ba353.png" width="25px"></a> |
-| Backend | Ujjwal Kar | Django Rest Framework, Heroku | <a href="https://github.com/Startup-Overflow/Backend"><img src="https://user-images.githubusercontent.com/55041104/196239892-a908f27d-c8e4-41c3-81de-efcd916ba353.png" width="25px"></a> |
-| Natural Language Processing and Machine Learning | Ujjwal Kar | Scikit Learn, NLTK | <a href="https://github.com/Uncoded-AI/docType"><img src="https://user-images.githubusercontent.com/55041104/196239892-a908f27d-c8e4-41c3-81de-efcd916ba353.png" width="25px"></a> |
-| Frontend Website | Sudipta Chakraborty & Aritra Chowdhury | React, Netlify | <a href="https://github.com/Startup-Overflow/Startup-Overflow-Web"><img src="https://user-images.githubusercontent.com/55041104/196239892-a908f27d-c8e4-41c3-81de-efcd916ba353.png" width="25px"></a> |
-| Research and Documentation | Adrija Mahato & Saraswata Jash | Microsoft Powerpoint | |
-| UI/UX design | Tapas Karmakar | Canva | |
